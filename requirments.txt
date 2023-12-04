@@ -1,5 +1,5 @@
-uvicorn
-pydantic
-fastapi
-alembic
-sqlalchemy
+uvicorn==0.24.0.post1
+pydantic==2.5.2
+fastapi==0.104.1
+alembic==1.13.0
+SQLAlchemy==2.0.23
